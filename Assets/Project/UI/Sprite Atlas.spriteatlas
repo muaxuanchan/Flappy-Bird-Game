@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Sprite Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 3
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 587536301a171984ba7b649e70deda1f, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 2bbdab504afa0cb4ea7fa53cfeab97af, type: 3}
+  - {fileID: 21300000, guid: c37117f044a42764a8405a2fa408dfb9, type: 3}
+  - {fileID: 21300000, guid: 4818f372520b5ed4192733a4e2b51f1c, type: 3}
+  - {fileID: 21300000, guid: 622370b2b88ac7745824658b6e636169, type: 3}
+  - {fileID: 21300000, guid: 1030ada3856146048b8aaffb0f6bc58d, type: 3}
+  - {fileID: 21300000, guid: 8812b2a5ba6fe0e43a5dbb99d577a267, type: 3}
+  - {fileID: 21300000, guid: 60539a568432ffe42bc57088c2f28272, type: 3}
+  - {fileID: 21300000, guid: 963fd388b8027864db96e6a8e64c41b0, type: 3}
+  - {fileID: 21300000, guid: a52ec3f880028bc498720ff00fcc5f4b, type: 3}
+  - {fileID: 21300000, guid: 9455f25bc4383e7428814c4c15793667, type: 3}
+  - {fileID: 21300000, guid: 5842e5bc95b2cf1479a7912d019c634e, type: 3}
+  - {fileID: 21300000, guid: e7e9f1be3feef1846bda3baa887c2df2, type: 3}
+  - {fileID: 21300000, guid: b9beb93f140221d4ba40a91dba81c6d6, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - redbird-midflap
+  - pipe-green
+  - base
+  - gameover
+  - redbird-upflap
+  - background-night
+  - redbird-downflap
+  - yellowbird-midflap
+  - background-day
+  - yellowbird-upflap
+  - yellowbird-downflap
+  - pipe-red
+  - PlayButton
+  m_Tag: Sprite Atlas
+  m_IsVariant: 0
